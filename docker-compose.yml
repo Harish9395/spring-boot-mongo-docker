@@ -38,7 +38,7 @@ services:
     
 volumes:
   mongodb:
-    external: true
+    #external: true
     
 networks:
   springappnetwork:
